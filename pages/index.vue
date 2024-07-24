@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
     <div>
       <div>Halo</div>
       <button id="open-app-button">
@@ -43,8 +43,4 @@
   #fallback-message {
     margin-top: 20px;
   }
-  </style> -->
-
-  <template>
-    <div>Hi</div>
-  </template>
+  </style>
