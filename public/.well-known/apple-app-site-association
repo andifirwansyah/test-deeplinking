@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "X5Q75V8V7Y.com.bpkpenabur.app",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [ "X5Q75V8V7Y.com.bpkpenabur.app" ]
+  }
+}
